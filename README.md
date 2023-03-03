@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **Bri0714/Bri0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +21,14 @@ soy estudiante de ingenieria de software💻que es un apasionado del desarrollo 
 
 
 Idiomas principales
-![image](https://user-images.githubusercontent.com/111927595/222735331-7c183ded-042a-4ecd-970a-5f31268ede33.png)
+
+![image](https://user-images.githubusercontent.com/111927595/222736269-df8e7450-1837-4312-8ff4-8e7ff2dd9f62.png)
+
 
 
 conocimientos
+
+
 ![image](https://user-images.githubusercontent.com/111927595/222735059-6ef6d9c2-eac6-4901-a7bd-76c27c0def19.png)
 
 
