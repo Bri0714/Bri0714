@@ -12,5 +12,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 -->
+hola soy Brian Alexander amezquita parada
+soy estudiante de ingenieria de software💻que es un apasionado del desarrollo de software.
+
+🔭En este momento me encuentro en el sexto y séptimo semestre de la carrera de Ingeniería de Sistemas en la Universidad Central de Bogotá. Además, también estoy cursando la carrera de Desarrollo Full Stack en Coderhouse.
+
+
+Idiomas principales
+![image](https://user-images.githubusercontent.com/111927595/222735331-7c183ded-042a-4ecd-970a-5f31268ede33.png)
+
+
+conocimientos
+![image](https://user-images.githubusercontent.com/111927595/222735059-6ef6d9c2-eac6-4901-a7bd-76c27c0def19.png)
+
+
+
+
+Github de Prashant
+ =Bri0714
