@@ -20,9 +20,6 @@ soy estudiante de ingenieria de software💻que es un apasionado del desarrollo 
 🔭En este momento me encuentro en el sexto y séptimo semestre de la carrera de Ingeniería de Sistemas en la Universidad Central de Bogotá. Además, también estoy cursando la carrera de Desarrollo Full Stack en Coderhouse.
 
 
-Idiomas principales
-
-![image](https://user-images.githubusercontent.com/111927595/222736269-df8e7450-1837-4312-8ff4-8e7ff2dd9f62.png)
 
 
 
